@@ -1,0 +1,8 @@
+print(
+<meta charset="utf-8">
+<script>
+	var numbe = parseFloat(Math.random()*100); // Случайное число
+	numbe = numbe.toFixed();	// целое число от 0 до 99
+	alert("Случайное число: "+numbe);
+</script>
+)
