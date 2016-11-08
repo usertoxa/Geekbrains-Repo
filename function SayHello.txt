@@ -1,0 +1,6 @@
+print(
+SayHello ();
+	function SayHello() {
+		alert("Hello"); // body...
+	}
+)
